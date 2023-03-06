@@ -158,7 +158,7 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'book-open',
 			id: '2',
 			links: [
 				{
