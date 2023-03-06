@@ -158,16 +158,16 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'book-open',
+			icon: 'coffee',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Classroom',
+					link: 'https://classroom.google.com/u/0/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Trig/Precalc',
+					link: 'https://sites.google.com/susdgapps.org/math-w-mrs-akin/trigprecalc-h?authuser=0',
 				},
 				{
 					name: 'Trello',
